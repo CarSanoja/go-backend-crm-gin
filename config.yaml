@@ -1,0 +1,3 @@
+port: "8080"
+jwt_secret: "your_jwt_secret"
+csv_file: "./data/customers.csv"
